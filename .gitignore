@@ -1,0 +1,4 @@
+.env
+local_demo.db
+__pycache__/
+venv/
